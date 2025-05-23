@@ -10,6 +10,8 @@ Where the optional CPU flag allows the output of processor benchmark utilisation
 
 # Output
 
+Sample output using a primary source image of cloud data over Europe. As expected, function output varies depending on the source imagery and can lead to different results depending on the source.
+
 ## Primary Source Image:
 
 ![Source Image](./source_images/worldWeather1.png)

@@ -11,3 +11,4 @@ Also includes benchmarking for the processing if required.
 - Despeckle : Remove noise
 - Thumbnail : Generate a smaller image size for thumbnail usage
 
+[View Functions](./functions/README.md)
